@@ -1,0 +1,13 @@
+{
+  "title": "BRICKS map style for MapLibre GL",
+  "upload_type": "software",
+  "description": "<p>Vector map style for MapLibre GL JS in the visual identity of BRICKS (Building Resilient Innovation in Communities through Knowledge and Social innovation), a Horizon Europe Innovation Action. Includes the style, glyphs generated from Archivo and Source Sans 3, and a preview page.</p>",
+  "creators": [
+    { "name": "Verona, Marcello", "affiliation": "The Lisbon Council" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["MapLibre", "map style", "OpenStreetMap", "New European Bauhaus", "BRICKS", "Horizon Europe"],
+  "grants": [{ "id": "10.13039/501100000780::101309643" }],
+  "communities": [{ "identifier": "eu" }]
+}

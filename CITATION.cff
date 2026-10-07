@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this map style, please cite it as below."
+title: "BRICKS map style for MapLibre GL"
+type: software
+version: 1.0.0
+date-released: 2026-10-07
+license: CC-BY-4.0
+repository-code: "https://github.com/lisboncouncil/bricks-map-style"
+url: "https://lisboncouncil.github.io/bricks-map-style/"
+authors:
+  - family-names: Verona
+    given-names: Marcello
+    affiliation: The Lisbon Council
+  - name: The Lisbon Council
+keywords:
+  - MapLibre
+  - map style
+  - OpenStreetMap
+  - New European Bauhaus
+  - BRICKS
+  - Horizon Europe
+abstract: >-
+  Vector map style for MapLibre GL JS in the visual identity of BRICKS
+  (Building Resilient Innovation in Communities through Knowledge and Social
+  innovation), a Horizon Europe Innovation Action, Grant Agreement No. 101309643.
