@@ -2,7 +2,7 @@
 
 [![Style: CC BY 4.0](https://img.shields.io/badge/style-CC%20BY%204.0-7161ef)](LICENSE)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-34ea82)](LICENSE-CODE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23219187.svg)](https://doi.org/10.5281/zenodo.23219187)
 
 A vector map style for [MapLibre GL JS](https://maplibre.org/) in the visual identity of [BRICKS](https://bricks-neb.eu/): brand palette, Archivo and Source Sans 3 labels, and pilot markers in the style of the BRICKS website.
 
